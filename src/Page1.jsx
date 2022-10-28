@@ -1,6 +1,6 @@
 const Page1 = () =>{
   return(
-    <div>Main Branch Page1</div>
+    <div>Git branch1</div>
   )
 }
 
